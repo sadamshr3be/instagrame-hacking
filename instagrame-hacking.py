@@ -22,7 +22,7 @@ print('''
 └─┘┴└─└─┘ ┴   └  └─┘┴└─└─┘└─┘     
 \033[38m***\033[31mInstgrame Brute Force Attack \033[38m***
 \033[33m*\033[32mDeveloper:AKASH BLACK HAT   \033[33m     *
-\033[35m*\033[32mInstagram:@sadam_alsharabi    \033[35m      *
+\033[35m*\033[32mInstagram:@lmaraheb \033[35m      *
 \033[31m*\033[32mYouTube  :@termuxalsharabi akash skills \033[31m*
 \033[37m*\033[32mPassList :alsharabi\033[37m                 *
 \033[35m**********\033[31m*********\033[33m*********\033[32m*******''')
